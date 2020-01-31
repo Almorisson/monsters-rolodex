@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Monsters Rolodex
+
+@author Mor NDIAYE
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and powered by React.js.
 
 ## Available Scripts
 
